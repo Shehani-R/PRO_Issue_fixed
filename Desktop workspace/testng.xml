@@ -4,9 +4,9 @@
     <test verbose="2" preserve-order="true" name="D:/Project">
         <classes>
             <class name="LoginPageTest"></class>
-<!--            <class name="tradePlaceOrderBuyTest"></class>-->
-            <class name="TradeOrderListTest"></class>
-            <class name="TradeOrderSearchTest"></class>
+            <class name="tradePlaceOrderBuyTest"></class>
+<!--            <class name="TradeOrderListTest"></class>-->
+<!--            <class name="TradeOrderSearchTest"></class>-->
         </classes>
     </test>
 </suite>
